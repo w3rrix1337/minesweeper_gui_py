@@ -27,8 +27,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone [https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git](https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git)
-cd ВАШ_РЕПОЗИТОРИЙ
+git clone https://github.com/w3rrix1337/minesweeper_gui_py.git
+cd minesweeper_gui_py
 ```
 
 3. Запуск игры
